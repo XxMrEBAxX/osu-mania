@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "osumania", "osumania\osumania.csproj", "{F706512F-110A-43AF-9572-2989EA7DDD56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F706512F-110A-43AF-9572-2989EA7DDD56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F706512F-110A-43AF-9572-2989EA7DDD56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F706512F-110A-43AF-9572-2989EA7DDD56}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F706512F-110A-43AF-9572-2989EA7DDD56}.Debug|x86.Build.0 = Debug|Any CPU
+		{F706512F-110A-43AF-9572-2989EA7DDD56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F706512F-110A-43AF-9572-2989EA7DDD56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F706512F-110A-43AF-9572-2989EA7DDD56}.Release|x86.ActiveCfg = Release|Any CPU
+		{F706512F-110A-43AF-9572-2989EA7DDD56}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3714553A-C9B3-4C66-87C7-B769D4E8B2CD}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = FmodTest\FmodTest.csproj
+		Policies = $0
+		$0.StandardHeader = $1
+		$1.Text = @Author:\n      Marc-Andre Ferland <madrang@gmail.com>\n\nCopyright (c) 2011 TheWarrentTeam\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the "Software"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.
+		$1.IncludeInNewFiles = True
+		$0.VersionControlPolicy = $2
+		$2.inheritsSet = Mono
+		$0.ChangeLogPolicy = $3
+		$3.UpdateMode = None
+		$3.MessageStyle = $4
+		$4.LineAlign = 0
+		$3.inheritsSet = Mono
+	EndGlobalSection
+EndGlobal
